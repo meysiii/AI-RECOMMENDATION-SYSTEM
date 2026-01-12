@@ -75,7 +75,7 @@ AI_Recommendation_System/
 
 Clone the repository:
 
-git clone https://github.com/your-username/AI_Recommendation_System.git
+git clone https://github.com/meysiii/AI-RECOMMENDATION-SYSTEM
 
 
 Navigate to the source folder:
