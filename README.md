@@ -124,3 +124,4 @@ Incorporate machine learning libraries in future versions
 
 # OUTPUT
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/74880e87-3233-4815-8250-9e66dc83132f" />
